@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>This is the new meals to go 
-            this is the update.
+            this is the second update.
       </Text>
       <StatusBar style="auto" />
     </View>
